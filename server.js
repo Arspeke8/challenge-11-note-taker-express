@@ -2,7 +2,7 @@ const express = require("express");
 const path = require("path");
 const fs = require("fs");
 
-const termData = require("./Challenges/new new express/challenge-11-note-taker-express/db/db.json");
+const termData = require("./challenge-11-note-taker-express/db/db.json");
 
 const PORT = process.env.PORT || 3001;
 
