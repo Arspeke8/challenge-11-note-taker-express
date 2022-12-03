@@ -3,7 +3,7 @@ const path = require("path");
 const fs = require("fs");
 
 const termData = require("./db/db.json");
-const PORT = 3001;
+const PORT = process.env || 3001;
 
 const app = express();
 

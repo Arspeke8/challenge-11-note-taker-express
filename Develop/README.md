@@ -2,7 +2,7 @@
 
 # Created a Note Taker program
 
-# Made with HTML, CSS and JavaScript, Node, Express
+# Made with HTML, CSS and JavaScript, Node, Express.JS, and Heroku
 
 # Creating Note Taker application that saves and retrieves notes from a JSON file.  
 
